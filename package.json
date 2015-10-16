@@ -1,0 +1,22 @@
+{
+  "name": "underline",
+  "version": "0.1.0",
+  "description": "A partial clone of the Lodash library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arinags/underline.git"
+  },
+  "keywords": [
+    "Lodash"
+  ],
+  "author": "Ari Yasunaga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arinags/underline/issues"
+  },
+  "homepage": "https://github.com/arinags/underline"
+}
